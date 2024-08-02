@@ -6,4 +6,4 @@ _________________________________
 Tap the spacebar 4 times to work out the average BPM.
 
 
-![Project gif](bpmCounterGif.gif)
+![Project gif](bpmCountGif.gif)
